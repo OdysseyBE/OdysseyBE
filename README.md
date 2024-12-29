@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Odyssey Adventure Server
 
 Welcome to **Odyssey**, an exciting adventure server focused on **dungeons** and **cosmetics**. Embark on thrilling quests, explore challenging dungeons, and unlock exclusive cosmetic items to customize your journey.
